@@ -144,4 +144,3 @@ Tunnel0 (primary) = 2001:DB8:FF1::/64. Tunnel1 (backup) = 2001:DB8:FF2::/64.
 
 `show etherchannel summary`, `show spanning-tree vlan 10`, `show vlan brief`, `show interfaces trunk`, `show standby brief`, `show ip interface brief`, `show ipv6 interface brief`, `show ip dhcp binding`, `show port-security`, `show ipv6 route`, `show interfaces tunnel 0`, `show crypto isakmp sa`, `show crypto ipsec sa`.
 
-The full step-by-step version with every command is in `README_full.md`.
